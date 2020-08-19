@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/imagemaker/.dotnet/store/|arch|/|tfm|",
+      "/Users/imagemaker/.nuget/packages"
+    ]
+  }
+}
